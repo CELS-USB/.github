@@ -1,4 +1,4 @@
-# CELS – Computational Engineering and Learning Systems
+# CELS – Center of Explainable Learning Systems
 
 CELS is a research laboratory at the Faculty of Science, University of South Bohemia in České Budějovice, Czech Republic.
 
